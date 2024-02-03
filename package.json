@@ -1,0 +1,19 @@
+{
+  "name": "cath-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^14.9.0",
+    "mongodb": "^5.1.0",
+    "next": "13.2.4",
+    "node-fetch": "^2.6.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
