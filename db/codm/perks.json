@@ -1,0 +1,182 @@
+[
+  {
+    "name": "fastrecover",
+    "perk": "Fast Recover",
+    "effects": "\nReduces healing delay from 5 seconds to 3.3 seconds, Increases healing power from 20 per tick to 27 per tick but healing rate remains at 1 tick / second.",
+    "type": "red"
+  },
+  {
+    "name": "persistence",
+    "perk": "Persistence",
+    "effects": "\nScorestreak progression no longer resets upon being killed. Applies to each scorestreak once per match.",
+    "type": "red"
+  },
+  {
+    "name": "flakjacket",
+    "perk": "Flak Jacket",
+    "effects": "\nReduce explosion and continous damage received by 35%.",
+    "type": "red"
+  },
+  {
+    "name": "skulker",
+    "perk": "Skulker",
+    "effects": "\nIncrease walking and strafing speed by 12%.",
+    "type": "red"
+  },
+  {
+    "name": "agile",
+    "perk": "Agile",
+    "effects": "\nCurrently bugged so the advantage is insignificant, Previously, it reduces ADS time after sprinting by ?%. Reduce object vaulting time by ?%.",
+    "type": "red"
+  },
+  {
+    "name": "lightweight",
+    "perk": "Lightweight",
+    "effects": "\nIncrease sprinting speed by 5%. Nullify fall damage.",
+    "type": "red"
+  },
+  {
+    "name": "restock",
+    "perk": "Restock",
+    "effects": "\nReplenishes all equipment every 25 seconds after use.",
+    "type": "red"
+  },
+  {
+    "name": "tactician",
+    "perk": "Tactician",
+    "effects": "\nSpawn with 1 extra piece of tactical equipment.",
+    "type": "red"
+  },
+  {
+    "name": "overclock",
+    "perk": "Overclock",
+    "effects": "\nIncreases the charging speed of the Operator Skill.",
+    "type": "red"
+  },
+  {
+    "name": "martydom",
+    "perk": "Martyrdom",
+    "effects": "\nDrops a live Frag Grenade upon death.",
+    "type": "red"
+  },
+  {
+    "name": "ironlungs",
+    "perk": "Iron Lungs",
+    "effects": "\nIncreases the breath hold time while using a sniper rifle.",
+    "type": "red"
+  },
+  {
+    "name": "vulture",
+    "perk": "Vulture",
+    "effects": "\nCollect ammo equivalent to one magazine of weapon in hand from enemies killed.",
+    "type": "green"
+  },
+  {
+    "name": "toughness",
+    "perk": "Toughness",
+    "effects": "\nReduce hit flinch by 60%.",
+    "type": "green"
+  },
+  {
+    "name": "tracker",
+    "perk": "Tracker",
+    "effects": "\nReveal enemy footsteps within the recent 4 seconds on the ground in bright red marks.",
+    "type": "green"
+  },
+  {
+    "name": "ghost",
+    "perk": "Ghost",
+    "effects": "\nCompletely invisible against Enemy UAVs, Advance UAVs will not reveal direction, Unmarked on enemy VTOLs & Predator Missile, Will not alert enemies using Hight Alert.",
+    "type": "green"
+  },
+  {
+    "name": "coldblooded",
+    "perk": "Cold Blooded",
+    "effects": "\nGrant invisibility towards AI operated enemy scorestreaks.",
+    "type": "green"
+  },
+  {
+    "name": "hardwired",
+    "perk": "Hard Wired",
+    "effects": "\nDoes not trigger enemy tripmines, Provides immunity against enemy Counter UAVs and EMP effects. Reduce footstep mark duration for enemy Tracker users.",
+    "type": "green"
+  },
+  {
+    "name": "quickfix",
+    "perk": "Quick Fix",
+    "effects": "\nWeapon kills and objective captures instantly activate health regeneration. Does not effect regeneration rate",
+    "type": "green"
+  },
+  {
+    "name": "amped",
+    "perk": "Amped",
+    "effects": "\nReduce drop and raise time of all weapons and equipment. (Weapon drop 250ms, raise 350ms).\nIncreased throwing spped of lethal and tactical equipment\nFaster reload speed for launchers.",
+    "type": "green"
+  },
+  {
+    "name": "recon",
+    "perk": "Recon",
+    "effects": "\nAfter killing enemy, nearby enemies will be scanned & displayed on the minimap.",
+    "type": "green"
+  },
+  {
+    "name": "gungho",
+    "perk": "Gung-Ho",
+    "effects": "\nAllows sprinting while Hip Firing, Reloading & using Utilites.",
+    "type": "green"
+  },
+  {
+    "name": "hardline",
+    "perk": "Hardline",
+    "effects": "\nIncrease all score income earned from kills by 25%.",
+    "type": "blue"
+  },
+  {
+    "name": "demoexpert",
+    "perk": "Demo Expert",
+    "effects": "\nIncrease all explosive damage dealt by 25%.",
+    "type": "blue"
+  },
+  {
+    "name": "tacticalmask",
+    "perk": "Tactical Mask",
+    "effects": "\nReduce the duration of tactical equipment effects by 40%.",
+    "type": "blue"
+  },
+  {
+    "name": "alert",
+    "perk": "Alert",
+    "effects": "\nAmplify enemy footstep audio. Enemies moving within 3m radius will be shown with general direction on minimap.",
+    "type": "blue"
+  },
+  {
+    "name": "engineer",
+    "perk": "Engineer",
+    "effects": "\nReveals enemy equipment and scorestreaks. Grant ability to re-roll and sabotage care packages.",
+    "type": "blue"
+  },
+  {
+    "name": "deadsilence",
+    "perk": "Dead Silence",
+    "effects": "\nProvide silent movement when walking, crouching, strafing & proning. Reduce footstep audio towards Alert users by 50%.",
+    "type": "blue"
+  },
+  {
+    "name": "shrapnel",
+    "perk": "Shrapnel",
+    "effects": "\nSpawn with 1 extra piece of lethal equipment. Explosive damage delays enemy health regeneration.",
+    "type": "blue"
+  },
+  {
+    "name": "highalert",
+    "perk": "High Alert",
+    "effects": "\nScreen will flash bright orange if spotted by enemies outside of your FOV. Grant ability to ping and reveal enemy positions in direct lines of sight by ADSing and aiming in their general direction.",
+    "type": "blue"
+  },
+  {
+    "name": "launcherplus",
+    "perk": "Launcher Plus",
+    "effects": "\nSpawn with 1 extra round of reserve ammo for equipped launchers.",
+    "type": "blue"
+  }
+]

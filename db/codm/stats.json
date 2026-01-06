@@ -1,0 +1,5954 @@
+[
+    {
+        "CWTS": {
+            "name": "Firearm",
+            "description": "Description",
+            "basic": [
+                "RPM",
+                "Burst RPM / Burst Delay",
+                "PV (ms)",
+                "Bullets per Shot"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "R1 Stop",
+                    "R2 Stop",
+                    "R3 Stop",
+                    "R4 Stop",
+                    "R5 Stop",
+                    "R6 Stop"
+                ],
+                "damage": [
+                    "Damage1",
+                    "Damage2",
+                    "Damage3",
+                    "Damage4",
+                    "Damage5",
+                    "Damage 6"
+                ]
+            },
+            "body_multi": [
+                "Head",
+                "Chest",
+                "Stomach",
+                "Arm",
+                "Forearm",
+                "Groin",
+                "Leg"
+            ],
+            "bsa": [
+                "BSA Score",
+                "Hipfire Spread (ring)"
+            ],
+            "mobility": [
+                "ADS Time",
+                "Sprint to ADS",
+                "Sprint to Hipfire",
+                "Movement (m/s)",
+                "ADS Movement (m/s)",
+                "Raise time (ms)",
+                "Drop Time (ms)"
+            ],
+            "ammo": [
+                "Base",
+                "Reserve",
+                "Half Reload",
+                "", // half reload frames
+                "Empty Reload",
+                "" // empty reload frames
+            ],
+            "recoil": {
+                "horizontal": "HORIZONTAL",
+                "vertical": "VERTICAL"
+            }
+        }
+    },
+    {
+        "A03": {
+            "name": "AK117",
+            "description": "5.45x39mm carbine. Trades a fast rate of fire for unstable recoil. Highly accurate, but the damage decreases quickly over range.",
+            "basic": [
+                "770",
+                "",
+                "78",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "4",
+                    "21",
+                    "36",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "22",
+                    "19",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.1",
+                "1",
+                "1.1",
+                "1.1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.95",
+                "7"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.13",
+                "2.87",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.4",
+                "2.1",
+                "1.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A04": {
+            "name": "AK-47",
+            "description": "7.62x39mm assault rifle with high initial recoil and high damage over range.",
+            "basic": [
+                "550",
+                "",
+                "109",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "21",
+                    "31",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "33",
+                    "26",
+                    "23",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.95",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "8",
+                "11",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.9",
+                "2.4",
+                "1.8",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A17": {
+            "name": "AS VAL",
+            "description": "\"9x39mm carbine with an unique built-in suppressor. Improved stealth at the expense of ballistic performance over range. \"",
+            "basic": [
+                "800",
+                "",
+                "75",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "7",
+                    "20",
+                    "30",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "25",
+                    "22",
+                    "19",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.55",
+                ""
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "9",
+                "6.34",
+                "3.19",
+                "",
+                ""
+            ],
+            "ammo": [
+                "35",
+                "140",
+                "1.8",
+                "2.3",
+                "1.9",
+                "3.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A05": {
+            "name": "ASM10",
+            "description": "\"5.45x39mm assault rifle featuring an unique barrel and bolt carrier which move back and forth upon firing. Improved accuracy. \"",
+            "basic": [
+                "550",
+                "",
+                "109",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "15",
+                    "32",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "34",
+                    "26",
+                    "20",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.24",
+                "6"
+            ],
+            "mobility": [
+                "19",
+                "8",
+                "12",
+                "5.97",
+                "2.7",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.8",
+                "2.8",
+                "1.8",
+                "3.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A07": {
+            "name": "BK57",
+            "description": "7.62x39mm assault rifle with a bullpup design. High initial accuracy and an increased magazine size which trade for a high recoil acceleration.",
+            "basic": [
+                "660",
+                "",
+                "91",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "20",
+                    "30",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "27",
+                    "22",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.31",
+                "5"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "10",
+                "6.29",
+                "3.19",
+                "",
+                ""
+            ],
+            "ammo": [
+                "35",
+                "140",
+                "2",
+                "2.3",
+                "2",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A18": {
+            "name": "CR-AMAX",
+            "description": "\"7.62x39mm carbine. High rate of fire, but its damage quickly decays over distance. \"",
+            "basic": [
+                "710",
+                "",
+                "85",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "13",
+                    "18",
+                    "26",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "24",
+                    "20",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.3",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "18",
+                "10",
+                "7",
+                "6.09",
+                "2.87",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.3",
+                "1.7",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A14": {
+            "name": "DR-H",
+            "description": "\"7.62x51mm battle rifle with high damage but reduced maneuverability. \"",
+            "basic": [
+                "570",
+                "",
+                "105",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "8",
+                    "14",
+                    "17",
+                    "25",
+                    "35",
+                    "100"
+                ],
+                "damage": [
+                    "32",
+                    "31",
+                    "28",
+                    "25",
+                    "24",
+                    "19"
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "3.89",
+                "6"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.3",
+                "1.7",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A16": {
+            "name": "FR .556",
+            "description": "\"5.56x45mm assault rifle with a bullpup design. High initial accuracy and long effective range makes it powerful at medium range. Recoil increases as shots are fired. \"",
+            "basic": [
+                "670",
+                "",
+                "90",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "26",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "19",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9"
+            ],
+            "bsa": [
+                "6.8",
+                "4.5"
+            ],
+            "mobility": [
+                "18",
+                "11",
+                "14",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.4",
+                "1.8",
+                "1.2",
+                "2.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A12": {
+            "name": "HBRa3",
+            "description": "\"5.56x45mm assualt rifle with moderate recoil. Reduced damage over distance. \"",
+            "basic": [
+                "700",
+                "",
+                "86",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "14",
+                    "26",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "22",
+                    "17",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.92",
+                "6"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "10",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.6",
+                "2.2",
+                "1.7",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A13": {
+            "name": "HVK-30",
+            "description": "\"7.62x35mm carbine with a high rate of fire. Its superior ergonimic design allows a faster reaction time at close range. \"",
+            "basic": [
+                "710",
+                "",
+                "85",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "20",
+                    "34",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "23",
+                    "18",
+                    "16",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.98",
+                "6"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.05",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.3",
+                "1.8",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A09": {
+            "name": "ICR-1",
+            "description": "\"5.56x45mm assault rifle. Sacrifices damage output for the lowest recoil in class. \"",
+            "basic": [
+                "600",
+                "",
+                "100",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "36",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.81",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "6",
+                "9",
+                "6.15",
+                "2.96",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.2",
+                "1.5",
+                "1.4",
+                "2.3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A21": {
+            "name": "KILO-141",
+            "description": "No Description",
+            "basic": [
+                "680",
+                "",
+                "88",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "17",
+                    "26",
+                    "46",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "29",
+                    "25",
+                    "23",
+                    "19",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "7.14",
+                ""
+            ],
+            "mobility": [
+                "16",
+                "9",
+                "9",
+                "6.17",
+                "2.96",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.5",
+                "1.9",
+                "1.6",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A11": {
+            "name": "KN-44",
+            "description": "\"7.62x39mm carbine. Has a high accuracy and can be outfitted with numerous muzzle attachemnts to counter its unruly recoil. \"",
+            "basic": [
+                "630",
+                "",
+                "95",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "21",
+                    "33",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.96",
+                "7"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "9",
+                "6.13",
+                "2.96",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.5",
+                "1.9",
+                "1.6",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A08": {
+            "name": "LK24",
+            "description": "\"5.56x45mm carbine. Provides a relatively long effective range with low recoil. \"",
+            "basic": [
+                "630",
+                "",
+                "95",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "23",
+                    "40",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "22",
+                    "18",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.9",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "6",
+                "10",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.3",
+                "1.9",
+                "1.5",
+                "2.7"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A06": {
+            "name": "M4",
+            "description": "\"5.56x45mm assault rifle. Sacrifices damage per shot for a longer barrel and lower recoil. Various barrel attachments avaialble for modifications.  \"",
+            "basic": [
+                "682",
+                "",
+                "88",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "36",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "20",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.38",
+                "7"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.17",
+                "2.99",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.5",
+                "1.8",
+                "1.6",
+                "2.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A19": {
+            "name": "M13",
+            "description": "No Description",
+            "basic": [
+                "880",
+                "",
+                "68",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "26",
+                    "39",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "18",
+                    "16",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.04",
+                "3.06",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A02": {
+            "name": "M16",
+            "description": "\"5.56x45mm assault rifle. The three-round burst firing mechanism provides outstanding ballistic performance over range. \"",
+            "basic": [
+                "450",
+                "800 / 15",
+                "133",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "21",
+                    "41",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "30",
+                    "27",
+                    "22",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.4",
+                "1.4",
+                "1",
+                "1.2",
+                "1.2",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "8.54",
+                "4"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "10",
+                "6.17",
+                "2.99",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.5",
+                "1.9",
+                "1.6",
+                "2.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A10": {
+            "name": "Man-O-War",
+            "description": "\"7.8x54mm (fictional) battle rifle utilizing built-in recoil reduction mechanism. Fires devastating rounds at a slower rate of fire. \"",
+            "basic": [
+                "500",
+                "",
+                "120",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "23",
+                    "43",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "37",
+                    "30",
+                    "24",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.06",
+                "7"
+            ],
+            "mobility": [
+                "20",
+                "8",
+                "11",
+                "5.36",
+                "2.7",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "2",
+                "2.5",
+                "2",
+                "3.3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A15": {
+            "name": "PMK2",
+            "description": "\"7.62x35mm carbine, capable of modifying its rate of fire through a number of barrel attachments, making it a remarkably versatile platform. \"",
+            "basic": [
+                "650",
+                "",
+                "92",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "11",
+                    "26",
+                    "40",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "19",
+                    "18",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.24",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.4",
+                "6.5"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.24",
+                "3.15",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.4",
+                "2",
+                "1.7",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A20": {
+            "name": "SWORDFISH",
+            "description": "No Description",
+            "basic": [
+                "600",
+                "960/13",
+                "100",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "20",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "21.62",
+                    "19.83",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.33",
+                "1.22",
+                "1.33",
+                "1.33",
+                "1.22",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "19",
+                "11",
+                "14",
+                "6.09",
+                "2.85",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "40",
+                "200",
+                "1.55",
+                "2.5",
+                "1.55",
+                "3.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A01": {
+            "name": "Type 25",
+            "description": "\"5.8x42mm assault rifle with a bullpup design. Has a high rate of fire as well as high mobility. \"",
+            "basic": [
+                "857",
+                "",
+                "70",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "17",
+                    "26",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "22",
+                    "19",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.7",
+                "6"
+            ],
+            "mobility": [
+                "15",
+                "7",
+                "10",
+                "6.32",
+                "3.26",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.6",
+                "2",
+                "1.5",
+                "2.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A04": {
+            "name": "AK-47 5.45",
+            "description": "\"A 5.45x39mm conversion of AK47 is for a faster rate of fire at the cost of damage output at long range. \"",
+            "basic": [
+                "705",
+                "",
+                "85",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "14",
+                    "24",
+                    "35",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "20",
+                    "17",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.25",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.95",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "8",
+                "11",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.9",
+                "2.4",
+                "1.8",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A17": {
+            "name": "AS VAL (FMJ)",
+            "description": "\"A Full Metal Jacket version of 9x39mm carbine with an unique built-in suppressor. Improved stealth at the expense of ballistic performance over range. \"",
+            "basic": [
+                "277",
+                "",
+                "216",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "26",
+                    "38",
+                    "75",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "48",
+                    "44",
+                    "35.4",
+                    "30.8",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "2.11",
+                "1.3",
+                "1",
+                "1",
+                "1.3",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "9",
+                "6.34",
+                "3.19",
+                "",
+                ""
+            ],
+            "ammo": [
+                "35",
+                "140",
+                "1.8",
+                "2.3",
+                "1.9",
+                "3.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A14": {
+            "name": "DR-H OTM",
+            "description": "\"7.62x51mm battle rifle with high damage but reduced maneuverability. \"",
+            "basic": [
+                "570",
+                "",
+                "105",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "8",
+                    "14",
+                    "17",
+                    "26",
+                    "35",
+                    "100"
+                ],
+                "damage": [
+                    "32",
+                    "31",
+                    "28",
+                    "25",
+                    "24",
+                    "19"
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.2",
+                "1",
+                "1.2",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "3.89",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "6",
+                "9",
+                "6.08",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.7",
+                "2.3",
+                "1.7",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A13": {
+            "name": "HVK-30 LC",
+            "description": "\"7.62x35mm carbine with a high rate of fire. Its superior ergonimic design allows a faster reaction time at close range. \"",
+            "basic": [
+                "710",
+                "",
+                "85",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "6",
+                    "26",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "33.91",
+                    "30.9",
+                    "19.8",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.6",
+                "1",
+                "1",
+                "0.8",
+                "1",
+                "0.8",
+                "0.8"
+            ],
+            "bsa": [
+                "4.98",
+                "6"
+            ],
+            "mobility": [
+                "18",
+                "6",
+                "9",
+                "6.05",
+                "2.84",
+                "",
+                ""
+            ],
+            "ammo": [
+                "24",
+                "96",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A15": {
+            "name": "PMK2 RFB",
+            "description": "\"7.62x35mm carbine, capable of modifying its rate of fire through a number of barrel attachments, making it a remarkably versatile platform. \"",
+            "basic": [
+                "740",
+                "",
+                "81",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "7",
+                    "16",
+                    "25",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "31",
+                    "29",
+                    "18",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.24",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.4",
+                "6.5"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.24",
+                "3.15",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.4",
+                "2",
+                "1.7",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A15": {
+            "name": "PMK2 TF",
+            "description": "\"7.62x35mm carbine, capable of modifying its rate of fire through a number of barrel attachments, making it a remarkably versatile platform. \"",
+            "basic": [
+                "720",
+                "",
+                "83",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "38",
+                    "60",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "19",
+                    "18",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.24",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.4",
+                "6.5"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.24",
+                "3.15",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.4",
+                "2",
+                "1.7",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A15": {
+            "name": "PMK2 WF",
+            "description": "\"7.62x35mm carbine, capable of modifying its rate of fire through a number of barrel attachments, making it a remarkably versatile platform. \"",
+            "basic": [
+                "650",
+                "",
+                "92",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "38",
+                    "60",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "19",
+                    "18",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.24",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.4",
+                "6.5"
+            ],
+            "mobility": [
+                "17",
+                "6",
+                "9",
+                "6.24",
+                "3.15",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.4",
+                "2",
+                "1.7",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A20": {
+            "name": "SWORDFISH Halbred",
+            "description": "No Description",
+            "basic": [
+                "642",
+                "960/13",
+                "93",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "40",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "20.18",
+                    "18.09",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.8",
+                "1.3",
+                "1.1",
+                "1.3",
+                "1.3",
+                "1.1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "19",
+                "11",
+                "14",
+                "6.09",
+                "2.85",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "40",
+                "200",
+                "1.55",
+                "2.5",
+                "1.55",
+                "3.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "A01": {
+            "name": "Type 25 SP",
+            "description": "\"5.8x42mm assault rifle with a bullpup design. Has a high rate of fire as well as high mobility. \"",
+            "basic": [
+                "857",
+                "",
+                "70",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "17",
+                    "26",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "23",
+                    "19",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.7",
+                "6"
+            ],
+            "mobility": [
+                "16",
+                "7",
+                "10",
+                "6.36",
+                "3.21",
+                "600",
+                "383"
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D12": {
+            "name": "AGR",
+            "description": "No Description",
+            "basic": [
+                "750",
+                "",
+                "80",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "13",
+                    "21",
+                    "30",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "21",
+                    "17",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "6.78",
+                "6"
+            ],
+            "mobility": [
+                "15",
+                "5",
+                "8",
+                "6.37",
+                "3.73",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.3",
+                "1.8",
+                "1.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D16": {
+            "name": "CBR-4",
+            "description": "No Description",
+            "basic": [
+                "800",
+                "",
+                "75",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "11",
+                    "17",
+                    "26",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "23",
+                    "17",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.35",
+                "1.2",
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "13",
+                "8",
+                "8",
+                "6.41",
+                "3.39",
+                "500",
+                "317"
+            ],
+            "ammo": [
+                "58",
+                "200",
+                "1.4",
+                "2.1",
+                "1.4",
+                "2.3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D02": {
+            "name": "Chicom",
+            "description": "No Description",
+            "basic": [
+                "600",
+                "720 / 9",
+                "100",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "9",
+                    "17",
+                    "21",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "27",
+                    "24",
+                    "20",
+                    "17",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.4",
+                "1.3",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "9.04",
+                "7"
+            ],
+            "mobility": [
+                "13",
+                "4",
+                "8",
+                "6.71",
+                "4.16",
+                "",
+                ""
+            ],
+            "ammo": [
+                "33",
+                "132",
+                "1.8",
+                "2.1",
+                "1.7",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D09": {
+            "name": "Cordite",
+            "description": "No Description",
+            "basic": [
+                "800",
+                "",
+                "75",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "8",
+                    "19",
+                    "26",
+                    "33",
+                    "100",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "22",
+                    "19",
+                    "18",
+                    "16",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5.81",
+                "6"
+            ],
+            "mobility": [
+                "16",
+                "5",
+                "8",
+                "6.68",
+                "4.05",
+                "533",
+                "417"
+            ],
+            "ammo": [
+                "40",
+                "160",
+                "1.7",
+                "2.3",
+                "2",
+                "3.0"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D11": {
+            "name": "Fennec",
+            "description": "No Description",
+            "basic": [
+                "1110",
+                "",
+                "54",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "13",
+                    "18",
+                    "25",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "24",
+                    "18.02",
+                    "13.02",
+                    "12.05",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.05",
+                "1.05",
+                "1",
+                "0.8",
+                "0.8",
+                "0.8",
+                "0.8"
+            ],
+            "bsa": [
+                "5.57",
+                "4"
+            ],
+            "mobility": [
+                "13",
+                "6",
+                "13",
+                "6.68",
+                "4.17",
+                "516",
+                "417"
+            ],
+            "ammo": [
+                "30",
+                "160",
+                "1.2",
+                "1.8",
+                "1.3",
+                "2.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D08": {
+            "name": "GKS",
+            "description": "No Description",
+            "basic": [
+                "600",
+                "",
+                "100",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "20",
+                    "30",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "24",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "3.55",
+                "6"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "9",
+                "6.36",
+                "3.72",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.4",
+                "1.9",
+                "1.5",
+                "2.5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D06": {
+            "name": "HG 40",
+            "description": "No Description",
+            "basic": [
+                "665",
+                "",
+                "90",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "16",
+                    "25",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "24",
+                    "20",
+                    "17",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5.6",
+                "5"
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "8",
+                "6.33",
+                "3.86",
+                "",
+                ""
+            ],
+            "ammo": [
+                "32",
+                "128",
+                "1.7",
+                "2.0",
+                "1.9",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D05": {
+            "name": "MSMC",
+            "description": "No Description",
+            "basic": [
+                "915",
+                "",
+                "66",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "9",
+                    "14",
+                    "19",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "21",
+                    "18",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "4.66",
+                "8"
+            ],
+            "mobility": [
+                "12",
+                "5",
+                "8",
+                "6.67",
+                "4.17",
+                "",
+                ""
+            ],
+            "ammo": [
+                "25",
+                "100",
+                "1.6",
+                "2.0",
+                "1.7",
+                "2.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D15": {
+            "name": "MX-9",
+            "description": "No Description",
+            "basic": [
+                "850",
+                "",
+                "71",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "12",
+                    "16",
+                    "21",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "21",
+                    "18",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.7"
+            ],
+            "bsa": [
+                "5.5",
+                ""
+            ],
+            "mobility": [
+                "13",
+                "5",
+                "9",
+                "6.37",
+                "3.38",
+                "",
+                ""
+            ],
+            "ammo": [
+                "35",
+                "140",
+                "1.2",
+                "1.8",
+                "1.2",
+                "1.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D03": {
+            "name": "PDW-57",
+            "description": "No Description",
+            "basic": [
+                "750",
+                "",
+                "80",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "6",
+                    "16",
+                    "29",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "27",
+                    "22",
+                    "17",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "4.24",
+                "6"
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "8",
+                "6.62",
+                "4.04",
+                "",
+                ""
+            ],
+            "ammo": [
+                "50",
+                "200",
+                "2.0",
+                "2.5",
+                "1.9",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D07": {
+            "name": "Pharo",
+            "description": "No Description",
+            "basic": [
+                "626",
+                "833 / 10",
+                "96",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "11",
+                    "18",
+                    "25",
+                    "30",
+                    "100",
+                    ""
+                ],
+                "damage": [
+                    "34",
+                    "26",
+                    "21",
+                    "19",
+                    "16",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5",
+                "8"
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "8",
+                "6.75",
+                "4.17",
+                "",
+                ""
+            ],
+            "ammo": [
+                "28",
+                "112",
+                "1.8",
+                "2.3",
+                "1.9",
+                "2.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D14": {
+            "name": "PP19 Bizon",
+            "description": "No Description",
+            "basic": [
+                "650",
+                "",
+                "92",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "15",
+                    "21",
+                    "31",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "24",
+                    "22",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.15",
+                "1",
+                "1",
+                "1",
+                "0.8",
+                "0.8"
+            ],
+            "bsa": [
+                "5.82",
+                ""
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "8",
+                "6.39",
+                "3.93",
+                "",
+                ""
+            ],
+            "ammo": [
+                "64",
+                "256",
+                "1.3",
+                "1.8",
+                "1.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D17": {
+            "name": "PPSH-41",
+            "description": "No Description",
+            "basic": [
+                "820",
+                "",
+                "73",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "9",
+                    "15",
+                    "22",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "23",
+                    "21",
+                    "19",
+                    "17",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.35",
+                "1.2",
+                "1.1",
+                "1.2",
+                "1.2",
+                "1.1",
+                "1"
+            ],
+            "bsa": [
+                "4.81",
+                ""
+            ],
+            "mobility": [
+                "15",
+                "9",
+                "11",
+                "6.4",
+                "3.38",
+                "500",
+                "300"
+            ],
+            "ammo": [
+                "65",
+                "260",
+                "1.9",
+                "2.7",
+                "1.6",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D10": {
+            "name": "QQ9",
+            "description": "No Description",
+            "basic": [
+                "830",
+                "",
+                "72",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "12",
+                    "19",
+                    "24",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "23",
+                    "17",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9"
+            ],
+            "bsa": [
+                "3.54",
+                "7"
+            ],
+            "mobility": [
+                "13",
+                "3",
+                "6",
+                "6.43",
+                "3.89",
+                "500",
+                "367"
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.2",
+                "1.8",
+                "2.7"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D13": {
+            "name": "QXR",
+            "description": "No Description",
+            "basic": [
+                "860",
+                "",
+                "70",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "16",
+                    "26",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "22",
+                    "19",
+                    "18",
+                    "12",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.3",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "4.04",
+                "7"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "8",
+                "6.47",
+                "3.94",
+                "",
+                ""
+            ],
+            "ammo": [
+                "40",
+                "160",
+                "1.5",
+                "2.1",
+                "1.6",
+                "2.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D04": {
+            "name": "Razorback",
+            "description": "No Description",
+            "basic": [
+                "634",
+                "",
+                "95",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "29",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "30",
+                    "23",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5.47",
+                "5"
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "9",
+                "6.37",
+                "3.7",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.1",
+                "1.6",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D01": {
+            "name": "RUS-79U",
+            "description": "No Description",
+            "basic": [
+                "770",
+                "",
+                "78",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "5",
+                    "19",
+                    "32",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "24",
+                    "18",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "7.03",
+                "7"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "9",
+                "6.5",
+                "3.96",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.8",
+                "2.2",
+                "1.7",
+                "1.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D12": {
+            "name": "AGR 5.56mm",
+            "description": "No Description",
+            "basic": [
+                "675",
+                "",
+                "89",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "21",
+                    "30",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "27",
+                    "23",
+                    "20",
+                    "18",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "6.78",
+                "6"
+            ],
+            "mobility": [
+                "15",
+                "5",
+                "8",
+                "6.37",
+                "3.73",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.3",
+                "1.8",
+                "1.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D11": {
+            "name": "Fennec Akimbo",
+            "description": "No Description",
+            "basic": [
+                "1110",
+                "",
+                "54",
+                "2"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "7",
+                    "11",
+                    "16",
+                    "23",
+                    "100",
+                    ""
+                ],
+                "damage": [
+                    "12",
+                    "11",
+                    "10",
+                    "9",
+                    "7",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "0.9",
+                "0.9",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5.57",
+                "6"
+            ],
+            "mobility": [
+                "-",
+                "-",
+                "13",
+                "6.68",
+                "-",
+                "",
+                ""
+            ],
+            "ammo": [
+                "60",
+                "240",
+                "1.2",
+                "1.8",
+                "1.3",
+                "2.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D14": {
+            "name": "PP19 Bizon LC",
+            "description": "No Description",
+            "basic": [
+                "650",
+                "",
+                "92",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "12",
+                    "17",
+                    "25",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "24",
+                    "22",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.15",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.82",
+                ""
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "8",
+                "6.39",
+                "3.93",
+                "",
+                ""
+            ],
+            "ammo": [
+                "64",
+                "256",
+                "1.3",
+                "1.8",
+                "1.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D15": {
+            "name": "MX-9 LC",
+            "description": "No Description",
+            "basic": [
+                "850",
+                "",
+                "71",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "12",
+                    "16",
+                    "21",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "21",
+                    "18",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.7"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "13",
+                "6",
+                "10",
+                "6.37",
+                "3.38",
+                "",
+                ""
+            ],
+            "ammo": [
+                "35",
+                "140",
+                "1.2",
+                "1.8",
+                "1.2",
+                "1.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D10": {
+            "name": "QQ9 10mm",
+            "description": "No Description",
+            "basic": [
+                "750",
+                "",
+                "80",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "12",
+                    "19",
+                    "24",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "26",
+                    "23",
+                    "17",
+                    "15",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9"
+            ],
+            "bsa": [
+                "3.54",
+                "7"
+            ],
+            "mobility": [
+                "13",
+                "3",
+                "6",
+                "6.43",
+                "3.89",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D13": {
+            "name": "QXR EB",
+            "description": "No Description",
+            "basic": [
+                "990",
+                "",
+                "61",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "16",
+                    "21",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "22",
+                    "19",
+                    "18",
+                    "12",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.3",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "4.04",
+                "7"
+            ],
+            "mobility": [
+                "16",
+                "6",
+                "8",
+                "6.47",
+                "3.94",
+                "",
+                ""
+            ],
+            "ammo": [
+                "40",
+                "160",
+                "1.5",
+                "2.1",
+                "1.6",
+                "2.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "D04": {
+            "name": "Razorback RF",
+            "description": "No Description",
+            "basic": [
+                "694",
+                "",
+                "86",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "29",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "30",
+                    "23",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.9",
+                "0.9"
+            ],
+            "bsa": [
+                "5.47",
+                "5"
+            ],
+            "mobility": [
+                "15",
+                "6",
+                "9",
+                "6.37",
+                "3.7",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.7",
+                "2.1",
+                "1.6",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C05": {
+            "name": "Chopper",
+            "description": "No Description",
+            "basic": [
+                "750",
+                "",
+                "80",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "10",
+                    "36",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "21",
+                    "17",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.16",
+                "7"
+            ],
+            "mobility": [
+                "28",
+                "10",
+                "14",
+                "5.57",
+                "2.39",
+                "",
+                ""
+            ],
+            "ammo": [
+                "100",
+                "400",
+                "3.5",
+                "4.6",
+                "2.7",
+                "5.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C07": {
+            "name": "Hades",
+            "description": "No Description",
+            "basic": [
+                "650",
+                "",
+                "92",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "24",
+                    "36",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "29",
+                    "22",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.36",
+                ""
+            ],
+            "mobility": [
+                "28",
+                "9",
+                "11",
+                "5.81",
+                "2.49",
+                "",
+                ""
+            ],
+            "ammo": [
+                "65",
+                "260",
+                "2.7",
+                "5",
+                "2.7",
+                "5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C07": {
+            "name": "Hades RFB",
+            "description": "No Description",
+            "basic": [
+                "740",
+                "",
+                "81",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "17",
+                    "25",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "31",
+                    "22",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "28",
+                "9",
+                "11",
+                "5.81",
+                "2.49",
+                "",
+                ""
+            ],
+            "ammo": [
+                "65",
+                "260",
+                "2.7",
+                "5",
+                "2.7",
+                "5"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C06": {
+            "name": "Holger-26",
+            "description": "No Description",
+            "basic": [
+                "706",
+                "",
+                "85",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "17",
+                    "20",
+                    "50",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "31",
+                    "25",
+                    "21",
+                    "19",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "34",
+                "9",
+                "11",
+                "5.71",
+                "2.45",
+                "",
+                ""
+            ],
+            "ammo": [
+                "100",
+                "400",
+                "2",
+                "3",
+                "2",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C04": {
+            "name": "M4LMG",
+            "description": "No Description",
+            "basic": [
+                "630",
+                "",
+                "95",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "21",
+                    "51",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "32",
+                    "23",
+                    "19",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.95",
+                "7"
+            ],
+            "mobility": [
+                "32",
+                "8",
+                "10",
+                "5.85",
+                "1.81",
+                "",
+                ""
+            ],
+            "ammo": [
+                "100",
+                "400",
+                "2.1",
+                "3",
+                "2.3",
+                "3.7"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C08": {
+            "name": "PKM",
+            "description": "No Description",
+            "basic": [
+                "631",
+                "",
+                "95",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "25",
+                    "35",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "32",
+                    "31",
+                    "24",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1.07",
+                "1",
+                "1.07",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "36",
+                "9",
+                "11",
+                "5.37",
+                "1.45",
+                "1183",
+                "817"
+            ],
+            "ammo": [
+                "100",
+                "400",
+                "4.5",
+                "6",
+                "5.2",
+                "6.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C03": {
+            "name": "RPD",
+            "description": "No Description",
+            "basic": [
+                "666",
+                "",
+                "90",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "21",
+                    "56",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "31",
+                    "23",
+                    "18",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.44",
+                "7"
+            ],
+            "mobility": [
+                "32",
+                "8",
+                "10",
+                "5.47",
+                "2.34",
+                "",
+                ""
+            ],
+            "ammo": [
+                "100",
+                "400",
+                "4.1",
+                "5.5",
+                "3.3",
+                "6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C01": {
+            "name": "S36",
+            "description": "No Description",
+            "basic": [
+                "750",
+                "",
+                "80",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "16",
+                    "38",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "30",
+                    "23",
+                    "18",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5.41",
+                "8"
+            ],
+            "mobility": [
+                "30",
+                "8",
+                "10",
+                "5.68",
+                "2.44",
+                "",
+                ""
+            ],
+            "ammo": [
+                "50",
+                "200",
+                "2",
+                "2.6",
+                "2",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "C02": {
+            "name": "UL736",
+            "description": "No Description",
+            "basic": [
+                "620",
+                "",
+                "97",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "26",
+                    "36",
+                    "56",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "25",
+                    "22",
+                    "20",
+                    "19",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "4.01",
+                "7"
+            ],
+            "mobility": [
+                "24",
+                "8",
+                "10",
+                "5.8",
+                "2.48",
+                "",
+                ""
+            ],
+            "ammo": [
+                "30",
+                "120",
+                "1.9",
+                "2.3",
+                "1.9",
+                "3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E02": {
+            "name": "BY15",
+            "description": "No Description",
+            "basic": [
+                "81",
+                "",
+                "741",
+                "8"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "5",
+                    "7",
+                    "16",
+                    "41",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "35",
+                    "27",
+                    "24",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "7",
+                "5"
+            ],
+            "mobility": [
+                "12",
+                "8",
+                "10",
+                "6.34",
+                "2.97",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E06": {
+            "name": "Echo",
+            "description": "No Description",
+            "basic": [
+                "205",
+                "",
+                "293",
+                "8"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "6",
+                    "12",
+                    "33",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "17",
+                    "15",
+                    "13",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6",
+                "6"
+            ],
+            "mobility": [
+                "12",
+                "8",
+                "10",
+                "6.46",
+                "3.02",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E03": {
+            "name": "HS0405",
+            "description": "No Description",
+            "basic": [
+                "49",
+                "",
+                "1224",
+                "10"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "7",
+                    "12",
+                    "15",
+                    "37",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "39",
+                    "28",
+                    "16",
+                    "10",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6",
+                "5.5"
+            ],
+            "mobility": [
+                "13",
+                "9",
+                "10",
+                "6.44",
+                "3.02",
+                "",
+                ""
+            ],
+            "ammo": [
+                "7",
+                "28",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E01": {
+            "name": "HS2126",
+            "description": "No Description",
+            "basic": [
+                "",
+                "",
+                "",
+                "11"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "5",
+                    "10",
+                    "33",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "12",
+                    "9",
+                    "6",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "5",
+                "6.5"
+            ],
+            "mobility": [
+                "12",
+                "8",
+                "10",
+                "6.34",
+                "2.97",
+                "",
+                ""
+            ],
+            "ammo": [
+                "16",
+                "64",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E05": {
+            "name": "KRM 262",
+            "description": "No Description",
+            "basic": [
+                "59",
+                "",
+                "1017",
+                "8"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "5",
+                    "8",
+                    "12",
+                    "37",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "36",
+                    "34",
+                    "22",
+                    "16",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "7.5",
+                "4.5"
+            ],
+            "mobility": [
+                "12",
+                "9",
+                "10",
+                "6.34",
+                "2.97",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "2.1",
+                "2.9",
+                "1.7",
+                "3.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "E04": {
+            "name": "Striker",
+            "description": "No Description",
+            "basic": [
+                "260",
+                "",
+                "231",
+                "8"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "8",
+                    "12",
+                    "33",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "12",
+                    "10",
+                    "7",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "6.5",
+                "6"
+            ],
+            "mobility": [
+                "12",
+                "9",
+                "10",
+                "6.46",
+                "3.02",
+                "",
+                ""
+            ],
+            "ammo": [
+                "12",
+                "48",
+                "1.9",
+                "3.1",
+                "2.5",
+                "3.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B02": {
+            "name": "Arctic .50",
+            "description": "No Description",
+            "basic": [
+                "116",
+                "",
+                "518",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "62",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "85",
+                    "80",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.6",
+                "1.4",
+                "1",
+                "1.4",
+                "1.4",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "27",
+                "",
+                "",
+                "5.37",
+                "1.46",
+                "",
+                ""
+            ],
+            "ammo": [
+                "7",
+                "28",
+                "2.1",
+                "2.9",
+                "1.7",
+                "3.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B04": {
+            "name": "DLQ",
+            "description": "No Description",
+            "basic": [
+                "48",
+                "",
+                "1250",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "100",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "135",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0.67",
+                "0.67"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "29",
+                "",
+                "",
+                "5.48",
+                "1.49",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "1.9",
+                "3.1",
+                "2.5",
+                "3.4"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B05": {
+            "name": "Locus",
+            "description": "No Description",
+            "basic": [
+                "57",
+                "",
+                "1053",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "66",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "95",
+                    "90",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.5",
+                "1",
+                "1.5",
+                "1.5",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "28",
+                "",
+                "",
+                "5.59",
+                "1.52",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "1.9",
+                "2.7",
+                "1.9",
+                "3.0"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B03": {
+            "name": "M21 EBR",
+            "description": "No Description",
+            "basic": [
+                "189",
+                "",
+                "317",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "75",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "60",
+                    "55",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "21",
+                "",
+                "",
+                "5.82",
+                "2.03",
+                "",
+                ""
+            ],
+            "ammo": [
+                "10",
+                "40",
+                "2.1",
+                "2.8",
+                "1.8",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B06": {
+            "name": "NA-45",
+            "description": "No Description",
+            "basic": [
+                "350",
+                "",
+                "172",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "100",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "30",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "3.5",
+                "1.1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "27",
+                "",
+                "",
+                "",
+                "1.49",
+                "",
+                ""
+            ],
+            "ammo": [
+                "2",
+                "32",
+                "1.5",
+                "2.0",
+                "1.9",
+                "1.9"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B07": {
+            "name": "Outlaw",
+            "description": "No Description",
+            "basic": [
+                "64",
+                "",
+                "935",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "30",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "90",
+                    "75",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.5",
+                "1",
+                "1.5",
+                "1.2",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "26",
+                "",
+                "",
+                "6.02",
+                "2.09",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "2.0",
+                "2.5",
+                "1.6",
+                "3.0"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B01": {
+            "name": "XPR-50",
+            "description": "No Description",
+            "basic": [
+                "240",
+                "",
+                "250",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "63",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "55",
+                    "50",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "2",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "21",
+                "",
+                "",
+                "5.8",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "2.0",
+                "2.7",
+                "1.8",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B02": {
+            "name": "Arctic .50 SP",
+            "description": "No Description",
+            "basic": [
+                "105",
+                "",
+                "571",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "80",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "85",
+                    "80",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.85",
+                "1.8",
+                "1.5",
+                "1.8",
+                "1.8",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "30",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "5",
+                "20",
+                "2.2",
+                "2.5",
+                "2.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "B05": {
+            "name": "Locus SP",
+            "description": "No Description",
+            "basic": [
+                "44",
+                "",
+                "1370",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "30",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "8",
+                "32",
+                "1.7",
+                "2.7",
+                "2",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F01": {
+            "name": "Kilo",
+            "description": "No Description",
+            "basic": [
+                "61",
+                "",
+                "980",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "40",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "85",
+                    "80",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1.3",
+                "1",
+                "1.3",
+                "1.2",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "23",
+                "",
+                "",
+                "",
+                "2.04",
+                "",
+                ""
+            ],
+            "ammo": [
+                "5",
+                "20",
+                "2.2",
+                "2.5",
+                "2.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F02": {
+            "name": "SKS",
+            "description": "No Description",
+            "basic": [
+                "327",
+                "",
+                "183",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "40",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "60",
+                    "58",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "2",
+                "1",
+                "0.9",
+                "0.8",
+                "0.8",
+                "0.9",
+                "0.8"
+            ],
+            "bsa": [
+                "6.5",
+                ""
+            ],
+            "mobility": [
+                "20",
+                "",
+                "",
+                "",
+                "2.04",
+                "",
+                ""
+            ],
+            "ammo": [
+                "20",
+                "80",
+                "1.4",
+                "2.5",
+                "1.6",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F03": {
+            "name": "SPR",
+            "description": "No Description",
+            "basic": [
+                "49",
+                "",
+                "1224",
+                ""
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "23",
+                "11",
+                "12",
+                "",
+                "2.03",
+                "",
+                ""
+            ],
+            "ammo": [
+                "5",
+                "20",
+                "1.7",
+                "2.7",
+                "2.0",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F03": {
+            "name": "SPR .300",
+            "description": "No Description",
+            "basic": [
+                "44",
+                "",
+                "1364",
+                ""
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "23",
+                "11",
+                "12",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "5",
+                "20",
+                "1.7",
+                "2.7",
+                "2.0",
+                "3.2"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F03": {
+            "name": "SPR .338",
+            "description": "No Description",
+            "basic": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F04": {
+            "name": "MK2",
+            "description": "No Description",
+            "basic": [
+                "57",
+                "",
+                "1364",
+                ""
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "25",
+                    "55",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "120",
+                    "112",
+                    "105",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "26",
+                "13",
+                "14",
+                "5.51",
+                "1.51",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F04": {
+            "name": "MK2 .30",
+            "description": "No Description",
+            "basic": [
+                "112",
+                "",
+                "536",
+                ""
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "F01": {
+            "name": "Kilo SP",
+            "description": "No Description",
+            "basic": [
+                "52",
+                "",
+                "1149",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "50",
+                    "100",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "110",
+                    "104",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.16",
+                "1",
+                "1.16",
+                "1",
+                "1",
+                "0.78",
+                "0.78"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "26/7",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "5",
+                "20",
+                "2.2",
+                "2.5",
+                "2.4",
+                "2.8"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G02": {
+            "name": "MW11",
+            "description": "No Description",
+            "basic": [
+                "300",
+                "",
+                "200",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "9",
+                    "20",
+                    "25",
+                    "30",
+                    "100",
+                    ""
+                ],
+                "damage": [
+                    "35",
+                    "26",
+                    "20",
+                    "17",
+                    "16",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.75",
+                "1.15",
+                "1.15",
+                "1",
+                "1",
+                "1.15",
+                "1"
+            ],
+            "bsa": [
+                "",
+                "5.5"
+            ],
+            "mobility": [
+                "12",
+                "",
+                "",
+                "6.81",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "1.9",
+                "2.6",
+                "2.5",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G01": {
+            "name": "J358",
+            "description": "No Description",
+            "basic": [
+                "200",
+                "",
+                "300",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "19",
+                    "21",
+                    "36",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "60",
+                    "40",
+                    "34",
+                    "25",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                "5"
+            ],
+            "mobility": [
+                "12",
+                "",
+                "",
+                "6.81",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "1.9",
+                "2.6",
+                "2.5",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G03": {
+            "name": ".50 GS",
+            "description": "No Description",
+            "basic": [
+                "164",
+                "",
+                "366",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "11",
+                    "26",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "70",
+                    "55",
+                    "48",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                "5"
+            ],
+            "mobility": [
+                "12",
+                "",
+                "",
+                "6.78",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "7",
+                "28",
+                "1.4",
+                "2.0",
+                "1.6",
+                "2.3"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G04": {
+            "name": "Renetti",
+            "description": "No Description",
+            "basic": [
+                "348",
+                "",
+                "172",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "7",
+                    "16",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "28",
+                    "25",
+                    "22",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "2",
+                "1.5",
+                "1",
+                "1.5",
+                "1.5",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                ""
+            ],
+            "mobility": [
+                "12",
+                "5",
+                "7",
+                "6.81",
+                "4.26",
+                "",
+                ""
+            ],
+            "ammo": [
+                "15",
+                "60",
+                "1.3",
+                "1.8",
+                "1.5",
+                "2.1"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G03": {
+            "name": ".50 GS Akimbo",
+            "description": "No Description",
+            "basic": [
+                "164",
+                "",
+                "366",
+                "2"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "11",
+                    "26",
+                    "100",
+                    "",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "60",
+                    "45",
+                    "40",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                "5"
+            ],
+            "mobility": [
+                "-",
+                "",
+                "",
+                "6.78",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "14",
+                "56",
+                "1.1",
+                "1.5",
+                "1.6",
+                "1.7"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    },
+    {
+        "G01": {
+            "name": "J358 SP",
+            "description": "No Description",
+            "basic": [
+                "166",
+                "",
+                "361",
+                "1"
+            ],
+            "dmg_rng": {
+                "stop": [
+                    "19",
+                    "21",
+                    "36",
+                    "100",
+                    "",
+                    ""
+                ],
+                "damage": [
+                    "70",
+                    "50",
+                    "44",
+                    "35",
+                    "",
+                    ""
+                ]
+            },
+            "body_multi": [
+                "1.5",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+            ],
+            "bsa": [
+                "",
+                "5"
+            ],
+            "mobility": [
+                "12",
+                "",
+                "",
+                "6.81",
+                "",
+                "",
+                ""
+            ],
+            "ammo": [
+                "6",
+                "24",
+                "1.8",
+                "2.5",
+                "2.6",
+                "2.6"
+            ],
+            "recoil": {
+                "horizontal": "0,80",
+                "vertical": "0, 248"
+            }
+        }
+    }
+]

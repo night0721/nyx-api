@@ -1,0 +1,16 @@
+{
+  "name": "cath-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "discord.js": "^14.22.1",
+    "fs": "^0.0.1-security",
+    "itty-router": "^5.0.22",
+    "prismarine-nbt": "^2.7.0",
+    "skyhelper-networth": "^1.27.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}

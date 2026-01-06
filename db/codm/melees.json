@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Base Melee",
+        "value": "basemelee",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Knife",
+        "value": "knife",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Glow Stick",
+        "value": "glow Stick",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Karambit",
+        "value": "karambit",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Folding Knife",
+        "value": "foldingknife",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Ice Axe",
+        "value": "iceaxe",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Wrench",
+        "value": "wrench",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Sickle",
+        "value": "sickle",
+        "range": "1.2",
+        "swingsPerMin": "68",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Chainsaw",
+        "value": "chainsaw",
+        "range": "1.2",
+        "swingsPerMin": "70",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Prizefighters",
+        "value": "prizefighters",
+        "range": "1.3",
+        "swingsPerMin": "96 (48 x2)",
+        "hitRegDelay": "183 (+200)",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Kali Sticks",
+        "value": "kalisticks",
+        "range": "1.5",
+        "swingsPerMin": "000 (00 x2)",
+        "hitRegDelay": "",
+        "sprintSpeed": "7.26",
+        "raiseTime": "650",
+        "dropTime": "267",
+        "image": ""
+    },
+    {
+        "name": "Machete",
+        "value": "machete",
+        "range": "1.6",
+        "swingsPerMin": "56",
+        "hitRegDelay": "267",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Nunchucks",
+        "value": "nunchucks",
+        "range": "1.6",
+        "swingsPerMin": "51",
+        "hitRegDelay": "167",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Assault Knife",
+        "value": "assaultknife",
+        "range": "1.6",
+        "swingsPerMin": "43",
+        "hitRegDelay": "183",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Katana",
+        "value": "katana",
+        "range": "1.7",
+        "swingsPerMin": "55",
+        "hitRegDelay": "250",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Axe",
+        "value": "axe",
+        "range": "1.9",
+        "swingsPerMin": "45",
+        "hitRegDelay": "283",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Bat",
+        "value": "bat",
+        "range": "1.9",
+        "swingsPerMin": "51",
+        "hitRegDelay": "400",
+        "sprintSpeed": "7.26",
+        "raiseTime": "",
+        "dropTime": "",
+        "image": ""
+    },
+    {
+        "name": "Shovel",
+        "value": "shovel",
+        "range": "2",
+        "swingsPerMin": "55",
+        "hitRegDelay": "500",
+        "sprintSpeed": "7.26"
+    }
+]

@@ -1,0 +1,2504 @@
+[
+  {
+    "cwts": "A01",
+    "weaponName": "Type 25",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Light Compensator",
+      "YKM Light Stock",
+      "Granulated Grip Tape",
+      "Stopping Power Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194293164965948/Screenshot_20211028-1259072.png"
+  },
+  {
+    "cwts": "A01",
+    "weaponName": "Type 25",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel(Short)",
+      "YKM Light Stock",
+      "Monolithic Suppressor",
+      "42 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 07; Good TTK - Fast Firerate - Bad Range - ironsights - non-flexible build options",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935028256653058088/unknown.png"
+  },
+  {
+    "cwts": "A02",
+    "weaponName": "M16",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Light Compensator",
+      "Holographic Sight",
+      "Rubberized Grip Tape",
+      "Operator Foregrip",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://images-ext-1.discordapp.net/external/2cYevpZoxTuLufgwG63xrACTOLpEN-1yrf_fSyc-pdU/%3Fwidth%3D937%26height%3D562/https/media.discordapp.net/attachments/772099026195316746/847174281255190568/image4.png"
+  },
+  {
+    "cwts": "A02",
+    "weaponName": "M16",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Light Compensator",
+      "Red Dot Sight",
+      "Rubberized Grip Tape",
+      "Operator Foregrip",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Rank 21; Good Damage Range - Extremely Fast TTK if shots land on upper body. High Punishment due to burst nature - Very inconsistent.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A03",
+    "weaponName": "AK117",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Supprssor",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063210239164416/Screenshot_20210620-110317.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A03",
+    "weaponName": "AK117",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "No Stock",
+      "40 Round Extended Mag",
+      "FMJ / Slight of Hand",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 14; Fast Firerate - High Initial Accuracy - Monstly Vertical Recoil - Slightly Unpredictable Pattern - Very Low Damage Range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A04",
+    "weaponName": "AK-47",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Supprssor",
+      "No Stock",
+      "Granulated Grip Tape",
+      "5.45 Large Caliber",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/772099026195316746/847174280823308308/image3.png?width=937&height=562"
+  },
+  {
+    "cwts": "A04",
+    "weaponName": "AK-47",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Extended Mag A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Ranked 19; Good Damage Range - Stright Vertical Recoil - High TTK - Slow Handling - High Punishment due to Slow Fire rate.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A04",
+    "weaponName": "AK-47",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "No Stock",
+      "Granulated Grip Tape",
+      "5.45 Caliber Ammo",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy", "Aggressive"],
+    "notes": "Ranked 17; Fast firerate - Consistent Damage Profile - Bad mobility for CQB - High Recoil - Low Range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A05",
+    "weaponName": "ASM10",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Flash Guard",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Slight of Hand",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/691133003866439701/861887618820472842/Screenshot_20210706-1353282.png"
+  },
+  {
+    "cwts": "A05",
+    "weaponName": "ASM10",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "No Stock",
+      "Granulated Grip Tape",
+      "33 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Ranked 11; Consistent high damage in CQB - Good Mid-Range Damage - Below Average Mobility - Very slow firerate & high aim shake",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A05",
+    "weaponName": "ASM10",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "33 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive"],
+    "notes": "Ranked 11; Consistent high damage in CQB - Good Mid-Range Damage - Below Average Mobility - Very slow firerate & high aim shake",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A06",
+    "weaponName": "M4",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Flash Guard",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Long Shot",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/892543685705740308/Screenshot_20210929-0418412.jpg"
+  },
+  {
+    "cwts": "A06",
+    "weaponName": "M4",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Ranked 21 Build 1; Easy Recoil - Good Accuracy & Range - Bad Damage & Awful CQC TTK",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A06",
+    "weaponName": "M4",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Flash Guard",
+      "No Stock",
+      "Granulated Grip Tape",
+      "MIP Light Barrel Short",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Aggressive", "Search And Destroy"],
+    "notes": "Rank 21 Build 2; Easy Recoil - Good Accuracy & Range - Bad Damage & Awful CQC TTK",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A07",
+    "weaponName": "BK57",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel(Short)",
+      "MIP Light Muzzel Brake",
+      "Granulated Grip Tape",
+      "40 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063253745238016/Screenshot_20210620-111526.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A07",
+    "weaponName": "BK57",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Monolithic / Red Dot Sight",
+      "YKM Commbat Stock",
+      "40 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 06; Good damage range - flexible build options; Below average TTK - Bad ironsights",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A08",
+    "weaponName": "LK24",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Supprssor",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063282258509834/Screenshot_20210620-113830.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A08",
+    "weaponName": "LK24",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Ranked 9; Easy recoil - Good damage range & accuracy;  Slow firerate results in high punishment - Below average TTK & Bad ironsights",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A08",
+    "weaponName": "LK24",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Suppressed Barrel",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Red Dot Sight",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy", "Aggressive"],
+    "notes": "Ranked 9; Easy recoil - Good damage range & accuracy;  Slow firerate results in high punishment - Below average TTK & Bad ironsights",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A09",
+    "weaponName": "ICR-1",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Supprssor",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063281622286346/Screenshot_20210620-113515.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A09",
+    "weaponName": "ICR-1",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 15; Non-Existent Recoil - Good Accuracy - Slow Firerate - Slow TTK - Low Damage Range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A10",
+    "weaponName": "Man-O-War",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Ranger Foregrip",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Disabled",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Not a very good weapon - Can use optic instead of Disabled",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194292380651540/Screenshot_20211028-1256082.png"
+  },
+  {
+    "cwts": "A10",
+    "weaponName": "Man-O-War",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "Red Dot Sight",
+      "Granulated Grip Tape",
+      "30 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "Ranked 13; Best damage profile - High kicks in recoil - slowest full auto firerate - below average AR mobility - average accuracy",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A11",
+    "weaponName": "KN-44",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel(Short)",
+      "MIP Light Muzzel Brake",
+      "Granulated Grip Tape",
+      "No Stock",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://cdn.discordapp.com/attachments/540218400413188116/856063281978015744/Screenshot_20210620-113641.png"
+  },
+  {
+    "cwts": "A11",
+    "weaponName": "KN-44",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "Monolithic Suppressor",
+      "38 Round Fast Reload",
+      "No Stock",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Ranked 8; Best BSA for a full auto - High BSA Taper - Average TTK - Rewarding Range Multipliers; Bad horizontal recoil",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A12",
+    "weaponName": "HBRa3",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Optics",
+      "Fast Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Generally One of the worst ARs - (But still better than AK117) - 17m 4 STK Range - Optics can be replaced with Compensator or FMJ or Disabled ",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194293433413632/Screenshot_20211028-1300402.png"
+  },
+  {
+    "cwts": "A12",
+    "weaponName": "HBRa3",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Long Shot",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 16; Good TTK - Fast Firerate - Bad Range - Awful ironsights",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A13",
+    "weaponName": "HVK-30",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "Monolithic Supprssor",
+      "YKM Combat Stock",
+      "Large Caliber Ammo",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/892545812599541770/Screenshot_20210929-0427552.jpg"
+  },
+  {
+    "cwts": "A13",
+    "weaponName": "HVK-30",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "Monolithic Supprssor",
+      "YKM Combat Stock",
+      "Large Caliber Ammo",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 02; Above average ROF - Decent Accuracy & Recoil - Large Caliber greatly improves damage profile and multipliers; Low Mag Size - Not Flexible Build options ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A14",
+    "weaponName": "DR-H",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "25 Round OTM Mag",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Tactical Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/892540226889736233/Screenshot_20210929-0402022.jpg"
+  },
+  {
+    "cwts": "A14",
+    "weaponName": "DR-H",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "25 Round OTM Mag",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Tactical Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Ranked 12; Fast TTK Potential - Inconsistent hitboxes - low range profile - Slow firerate",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/892540226889736233/Screenshot_20210929-0402022.jpg"
+  },
+  {
+    "cwts": "A14",
+    "weaponName": "DR-H",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "25 Round OTM Mag",
+      "No Stock",
+      "Granulated Grip Tape",
+      "OWC Ranger",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive"],
+    "notes": "Ranked 12; Fast TTK Potential - Inconsistent hitboxes - low range profile - Slow firerate",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A15",
+    "weaponName": "Peacekeeper MK2",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Taskforce  Barrel",
+      "Agile Stock",
+      "Firm Grip Tape",
+      "Field Agent Foregrip",
+      "Extended Mag A"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Build with Taskforce Barrel",
+    "imageUrl": "https://media.discordapp.net/attachments/772099026195316746/847174260522090516/image2.png?width=937&height=562"
+  },
+  {
+    "cwts": "A15",
+    "weaponName": "Peacekeeper MK2",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Taskforce  Barrel",
+      "Agile Stock",
+      "Firm Grip Tape",
+      "Foregrip",
+      "Double Stack"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 3; Broken Attachments - Flexible Builds - Good Mobility; Bad ironsights - Awful recoil - Slow reload Speed",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A16",
+    "weaponName": "FR .556",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel(Short)",
+      "RTC Steady Stock",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/772099026195316746/847174260052459540/image1.png"
+  },
+  {
+    "cwts": "A16",
+    "weaponName": "FR .556",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "Ranked 10; Extremely Good Range - High Accuracy; Inconvenient Aimshake - slow handling - bad negetive multiplier ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A16",
+    "weaponName": "FR .556",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "RTC Steady Stock",
+      "Stippled Grip Tape",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Aggressive"],
+    "notes": "Ranked 10; Extremely Good Range - High Accuracy; Inconvenient Aimshake - slow handling - bad negetive multiplier ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A17",
+    "weaponName": "AS VAL",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Quick Response Barrel",
+      "OWC Skeleton Stock",
+      "Granulated Grip Tape",
+      "Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive"],
+    "notes": "For CQB Situations",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063210528309258/Screenshot_20210620-110651.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A17",
+    "weaponName": "AS VAL",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP 200mm Mid-Range Barrel",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "For Mid- Ranged Gunfights",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063211257200680/Screenshot_20210620-111341.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A17",
+    "weaponName": "AS VAL",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Quick Response Barrel",
+      "OWC Ranger Stock",
+      "Ruberized Grip Tape",
+      "Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Long"],
+    "notes": "Zero Recoil - That's it",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856063210997284904/Screenshot_20210620-111321.png?width=1320&height=609"
+  },
+  {
+    "cwts": "A17",
+    "weaponName": "AS VAL",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Quick Response Barrel",
+      "YKM Combat Stock",
+      "Operator Foregrip",
+      "15 Round FMJ",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive"],
+    "notes": "Ranked 4; Consistent 2 STK Lethality - High ROF for Semi-Auto; Low Mag Size - Bullet Velocity & Average Range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A17",
+    "weaponName": "AS VAL",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Quick Response Barrel",
+      "OWC Skeleton Stock",
+      "Slight of Hand",
+      "Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive", "Search And Destroy"],
+    "notes": "Ranked 1; High ROF - decent mobility - good TTK & easy to use; Bullet velocity reduces it's affectivness due to de-sync Bad TTK over range - SMG like range profile",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A18",
+    "weaponName": "CR-56 AMAX",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Gunner Stock",
+      "Red Dot Sight 3",
+      "Granulated Grip Tape",
+      "M67 AMMO",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Semi-Auto", "Passive"],
+    "notes": "Semi-Auto Conversion- Fun to use - Feels similar to SKS",
+    "imageUrl": "https://media.discordapp.net/attachments/880106738492256286/880107112699678790/unknown.png?width=803&height=630"
+  },
+  {
+    "cwts": "A18",
+    "weaponName": "CR-56 AMAX",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Intruder Stock",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Extended Mag A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive"],
+    "notes": "Ranked 18; Good TTK - Easy Recoil - High Firerate - Flexible Builds Options - Bad Damage and inconsistent due to SMG Multipliers",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A18",
+    "weaponName": "CR-56 AMAX",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Gunner Stock",
+      "Red Dot Sight",
+      "Granulated Grip Tape",
+      "M67 AMMO",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Semi-Auto", "Aggressive"],
+    "notes": "Ranked 4; Best Long range option with a consistent 2 shots to kill; Semi-Auto Conversion results in very high punishment - not versatile",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A19",
+    "weaponName": "M13",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Mini Barrel",
+      "No Stock",
+      "Granulated Grip Tape",
+      ".300 RTC Double Stack 40 Round",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Decent for MP as a midrange weapon. Not super amazing, you can also use 60 Round Large Extended Mag B",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/894492659014598656/Screenshot_2021-10-04-13-21-37-427_com.activision.callofduty.shooter.jpg?width=1329&height=671"
+  },
+  {
+    "cwts": "A19",
+    "weaponName": "M13",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Heavy Long Barrel",
+      "RTC Combat Stock",
+      "Granulated Grip Tape",
+      "60 Round Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["BR"],
+    "notes": "Completely broken in BR.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A19",
+    "weaponName": "M13",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Mini Barrel",
+      "No Stock",
+      "Slight of Hand",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive"],
+    "notes": "Ranked 05; Vary fast firerate - Manageable Recoil, Good Lethality - Headshot Multiplier, Strafe Speed; Slow base mobility and handling - Bullet Velocity degrades TTK over range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A19",
+    "weaponName": "M13",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Silincer Barrel",
+      "No Stock",
+      "Granulated griptape",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy"],
+    "notes": "Ranked 05; Vary fast firerate - Manageable Recoil - Good Lethality - Headshot Multiplier - Strafe Speed; Slow base mobility and handling - Bullet Velocity degrades TTK over range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A20",
+    "weaponName": "Swordfish",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Skeleton Stock",
+      "Operator Foregrip",
+      "Rubberized Grip Tape",
+      "Disabled",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/934340917731659826/Screenshot_20220122-1226412.png"
+  },
+  {
+    "cwts": "A20",
+    "weaponName": "Swordfish",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Light Muzzel Brake",
+      "Tactical Foregrip A",
+      "Stippled Grip Tape",
+      "OWC Skeleton Stock",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A21",
+    "weaponName": "Kilo 141",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Skeleton Stock / YKM Combat Stock",
+      "OWC Marksman",
+      "Rubberized Grip Tape",
+      "Extended Mag A / Disabled",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "It's also entirely viable to use skeleton stock over combat stock. The BSA difference basically doesn't exist, 35m 4 shot range because of Marksman Barrel, Rubberized grip is extremely effective and you'll still have good BSA.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/937158965870071838/unknown.png?width=735&height=614"
+  },
+  {
+    "cwts": "A21",
+    "weaponName": "Kilo 141",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "YKM Integral Suppressor Light ",
+      "No Stock",
+      "Disable Perk",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy", "Aggressive"],
+    "notes": "Integral Suppressor Barrel to stay off the radar on map, 60 Round Reload for continous fights and Disable perk to slow down strafe/smg during a gunfight",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938004873268580392/unknown.png"
+  },
+  {
+    "cwts": "A21",
+    "weaponName": "Kilo 141",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "OWC Skeleton Stock",
+      "Granulated Grip Tape",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938004972610658314/unknown.png"
+  },
+  {
+    "cwts": "B02",
+    "weaponName": "Arctic .50",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Assassin Short",
+      "RTC Steady Stock",
+      "Granulated Grip Tape",
+      "FMJ",
+      "OWC Light Suppressor"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094834732433418/Screenshot_20210620-140208.png"
+  },
+  {
+    "cwts": "B03",
+    "weaponName": "M21 EBR",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-23T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "MIP Strike Stock",
+      "Tactical Foregrip A",
+      "Monolithic Suppressor",
+      "20 Round Reload"
+    ],
+    "tags": [
+      "Respawn",
+      "Search And Destroy",
+      "Battle Royale",
+      "Aggressive",
+      "Passive"
+    ],
+    "notes": "Handling is a bit slow but will kill with absurd efficiency as long as you can hit them.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/767176587099111485/892473483328651264/image1.png"
+  },
+  {
+    "cwts": "B04",
+    "weaponName": "DL Q33",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "YKM Combat Stock",
+      "OWC Laser-Tactical",
+      "FMJ",
+      "OWC Light Suppressor"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive", "Search And Destroy"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094834460721152/Screenshot_20210620-140247.png"
+  },
+  {
+    "cwts": "B05",
+    "weaponName": "Locus",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Lightweight Short",
+      "OWC Skeleton Stock",
+      "OWC Laser-Tactical",
+      "FMJ",
+      "OWC Light Suppressor"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/691133003866439701/861887618546139146/Screenshot_20210706-1357422.png"
+  },
+  {
+    "cwts": "B06",
+    "weaponName": "NA-45",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Unavaliable",
+      "OWC Skeleton Stock",
+      "OWC Laser-Tactical",
+      "FMJ",
+      "OWC Light Suppressor"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "B07",
+    "weaponName": "Outlaw",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Memorial Cowboy",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "FMJ",
+      "9 Round Reload"
+    ],
+    "tags": ["Respawn", "Aggressive", "Search And Destroy"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856218690775941150/Screenshot_20210620-223646.png?width=1320&height=609"
+  },
+  {
+    "cwts": "B08",
+    "weaponName": "Rytec AMR",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "OWC Skeleton Stock",
+      "Stippled Grip Tape",
+      "RTC Compensator",
+      "25x59mm Thermite Mag"
+    ],
+    "tags": ["Respawn", "Passive", "BR", "Search And Destroy"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/893026144734040064/Screenshot_20210930-1213322.jpg"
+  },
+  {
+    "cwts": "B09",
+    "weaponName": "SVD",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "3x Scope",
+      "510mm / 600mm Barrel",
+      "Skeleton Stock",
+      "15/20 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": " NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/934338857300815882/Screenshot_20220122-1218292.png"
+  },
+  {
+    "cwts": "C01",
+    "weaponName": "S36",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Compagnie Generale Sevier - Light Barrel",
+      "Monolitic Suppressor",
+      "Preferred Sight",
+      "100 Round Belt",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194292615544852/Screenshot_20211028-1257022.png"
+  },
+  {
+    "cwts": "C02",
+    "weaponName": "UL736",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC 12.4' Light Barrel",
+      "RTC Steady Stock",
+      "Granulated Grip Tape",
+      "60 Round Belt",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856109419782733824/Screenshot_20210620-151844.png?width=1320&height=609"
+  },
+  {
+    "cwts": "C03",
+    "weaponName": "RPD",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Snatch Foregrip",
+      "No Stock",
+      "Granulated Grip Tape",
+      "FMJ",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856108980119404554/Screenshot_20210620-151735.png?width=1320&height=609"
+  },
+  {
+    "cwts": "C04",
+    "weaponName": "M4LMG",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Ultralight Barrel",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Light Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856108979775602689/Screenshot_20210620-151639.png?width=1320&height=609"
+  },
+  {
+    "cwts": "C05",
+    "weaponName": "Chopper",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Heavy Handle",
+      "Chopper Infatry",
+      "RTC Light Muzzle Brake",
+      "FMJ",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856108979411615754/Screenshot_20210620-151548.png?width=1320&height=609"
+  },
+  {
+    "cwts": "C06",
+    "weaponName": "Holger 26",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "No Stock",
+      "Granulated Grip Tape",
+      "Holger 26C Lightweight Polymer Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "SMG Like Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856109420311740436/Screenshot_20210620-151957.png"
+  },
+  {
+    "cwts": "C06",
+    "weaponName": "Holger 26",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Holger 26C Lightweight Polymer Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive", "Search And Destroy", "Respawn"],
+    "notes": "AR Like Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856109420576243722/Screenshot_20210620-152013.png?width=1320&height=609"
+  },
+  {
+    "cwts": "C07",
+    "weaponName": "Hades",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Long-Range Barrel",
+      "Agile Stock",
+      "Firm Grip Tape",
+      "Red Dot Sight/Agency Suppressor",
+      "Aim Assist Laser"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935034973675749416/Screenshot_20220124-1024142.png"
+  },
+  {
+    "cwts": "C08",
+    "weaponName": "PKM",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-23T00:00:00Z",
+    "attachments": [
+      "Snatch Foregrip",
+      "Slight Of Hand",
+      "200 Round Mag",
+      "MIP Light",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "C08",
+    "weaponName": "PKM",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-23T00:00:00Z",
+    "attachments": [
+      "Snatch Foregrip",
+      "Optic",
+      "200 Round Mag",
+      "Disabled",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Battle Royale"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "C08",
+    "weaponName": "PKM",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-23T00:00:00Z",
+    "attachments": [
+      "Monolithic ",
+      "Marksman",
+      "200 Round Mag",
+      "FMJ",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive", "Respawn", "Search And Destroy"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "C08",
+    "weaponName": "PKM",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-23T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor / Marksman Barrel",
+      "No Stock",
+      "200 Round Mag / Snatch Foregrip / Optic",
+      "FMJ",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy"],
+    "notes": "This build aims to improve PKM's strength as a true suppressive fire weapon. Monolithic Suppressor can be used in place of Marksman Barrel. Snatch Foregrip or an Optic can be used in place of 200-R. Steady Stock can be used in place of No Stock.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D01",
+    "weaponName": "RUS-79U",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "No Stock",
+      "Slight of Hand / Granulated",
+      "50 or 38 Round Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Remarkably Forgiving because hitting legs doesn't effect STK - and hitting 2 chest shots will result in a 4 STK upto 24m. ",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194292120596530/Screenshot_20211028-1254252.png"
+  },
+  {
+    "cwts": "D01",
+    "weaponName": "RUS-79U",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "OWC Skeleton Stock",
+      "MIP Light Barrel (Short)",
+      "50 Round Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 07; Easy to use and Reliable - Excellent Strafing - Slower TTK - Outclassed by other weapons.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935027311617654874/Screenshot_20220124-0952192.png"
+  },
+  {
+    "cwts": "D02",
+    "weaponName": "Chicom",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "YKM Combat Stock",
+      "Stippled Grip Tape",
+      "Strike Foregrip",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856086053509398558/Screenshot_20210620-124417.png?width=1320&height=609"
+  },
+  {
+    "cwts": "D02",
+    "weaponName": "Chicom",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Marksman Barrel",
+      "YKM Combat Stock",
+      "Monolithic Suppressor",
+      "45 Round Extended Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 15; Big mag - everything is negative - not viable since launch.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D03",
+    "weaponName": "PDW-57",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Flash Guard",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Sleight of Hand",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856086098329468928/Screenshot_20210620-134210.png?width=1320&height=609"
+  },
+  {
+    "cwts": "D03",
+    "weaponName": "PDW-57",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "YKM Combat Stock",
+      "Granulated Grip Tape",
+      "Extended Light Barrel",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 14; Large Mag Capacity - Low Recoil - Above average ROF - Limiting attachment choices - Mediocre range.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D04",
+    "weaponName": "Razorback",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "YKM Combat Stock",
+      "Rubberized Grip Tape",
+      "Extended Mag A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856086099401900072/Screenshot_20210620-134808.png?width=1320&height=609"
+  },
+  {
+    "cwts": "D04",
+    "weaponName": "Razorback",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Rapid Fire",
+      "YKM Light Stock",
+      "Monolithic Suppressor",
+      "Extended Mag A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 02; Versatile - Easy Recoil - Good Initial BSA - Consistent TTK - Fast ROF - Bad Flinch - Aim shake & Mobility (not suitable for aggressive playstyle)",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D05",
+    "weaponName": "MSMC",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Sleight of Hand",
+      "No Stock",
+      "Granulated Grip Tape",
+      "36 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856086097963909120/Screenshot_20210620-134101.png?width=1320&height=609"
+  },
+  {
+    "cwts": "D05",
+    "weaponName": "MSMC",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Ranger",
+      "YKM Combat Stock",
+      "Rubberized Grip Tape",
+      "36 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 09; Fast TTK (for Upper Body Shots) Tricky Recoil -  Inconsistent TTK.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D06",
+    "weaponName": "HG 40",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "No Stock",
+      "OWC Marksman Barrel",
+      "45 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive"],
+    "notes": "Should be treated as Fast Handling AR - Idealing should be trying to hit upper body - Spamming suppressor fire also works.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194291889897482/Screenshot_20211028-1253182.png"
+  },
+  {
+    "cwts": "D06",
+    "weaponName": "HG 40",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Integral Suppressor ",
+      "No Stock",
+      "Granulated Grip Tape",
+      "40 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive", "Search And Destroy"],
+    "notes": "Ranked 13; Easy Recoil - good mobility & good attachment choices - Inconsistent TTK - Bad Hitboxes & Bad Range",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D07",
+    "weaponName": "Pharo",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "MIP Strike Stock",
+      "Granulated Grip Tape",
+      "36 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856086098819285003/Screenshot_20210620-134441.png?width=1320&height=609"
+  },
+  {
+    "cwts": "D07",
+    "weaponName": "Pharo",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "YKM Combat stock",
+      "Monolithic Suppressor",
+      "36 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 04; Best for Aggressive Playstyle after MX9 - Easy 1 Burst anywhere on the body (192ms TTK up-to 17m) Hard for tracking because it's burst especially in the current META.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D08",
+    "weaponName": "GKS",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "YKM Combat Stock",
+      "RTC Light Muzzel Brake",
+      "32 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://pbs.twimg.com/media/FBl8oJlXEA0Kfbg?format=jpg"
+  },
+  {
+    "cwts": "D08",
+    "weaponName": "GKS",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "Granulated Grip Tape",
+      "Monolithic Suppressor",
+      "30 Round Fast Reload",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 11; Versatile - Easy Recoil - Consistent but slow TTK - Worst BSA in-game so BSA stack is necessary.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D09",
+    "weaponName": "Cordite",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "YKM Combat Stock",
+      "Monolithic Suppressor",
+      "80 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Usally a 5 STK - High Initial Recoil - Base TTK not good (~300ms)  Not good for CQC.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194292913311755/Screenshot_20211028-1258112.png"
+  },
+  {
+    "cwts": "D09",
+    "weaponName": "Cordite",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "YKM Combat Stock",
+      "MIP Light Flash Guard",
+      "60 Round Extended Mag",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 10; Great Hipfire - Huge Mag Capacity - Relatively low recoil - Good Flinch for an SMG -  Inconsistent TTK at Range, Slow Mobility which can't be boosted.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D10",
+    "weaponName": "QQ9",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Recon Tac Long",
+      "No Stock",
+      "Monolithic Suppressor",
+      "45 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935030149093662800/Screenshot_20220124-1005082.png"
+  },
+  {
+    "cwts": "D10",
+    "weaponName": "QQ9",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-15T00:00:00Z",
+    "attachments": [
+      "RTC Recon Tac Long",
+      "No Stock",
+      "Monolithic Suppressor",
+      "45 Round Extended Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 05; Easy to use, Good Mobility - Range - ADS Speed. Good for Aggressive Playstyle - Inconsistent TTK",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935030149093662800/Screenshot_20220124-1005082.png"
+  },
+  {
+    "cwts": "D11",
+    "weaponName": "Fennec",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Monolithic Suppressor",
+      "Operator Foregrip",
+      "Extended Mag A",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/892542087474602004/Screenshot_20210929-0412042.jpg"
+  },
+  {
+    "cwts": "D11",
+    "weaponName": "Fennec",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light",
+      "Monolithic Suppressor",
+      "Stippled Grip Tape",
+      "Extended Mag A",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 06; Fastest ROF - High but easy recoil - Best in class hipfire - Slow STF - Unstable Recoil - Inconsistent TTK because Body Multipliers - Worst Flinch.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/934341942530146304/Screenshot_20220122-1230502.png"
+  },
+  {
+    "cwts": "D12",
+    "weaponName": "AGR 556",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "YKM Light Stock",
+      "OWC Light Compensator",
+      "30 Round 5.56mm Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/691133003866439701/861887638419931176/Screenshot_20210706-1402032.png"
+  },
+  {
+    "cwts": "D12",
+    "weaponName": "AGR 556",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "YKM Combat Stock",
+      "Monolithic Suppressor",
+      "60 Round 5.56mm Mag",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 12; Versatile - 60 Rounds - Unusual Recoil Pattern that is hard to control - Inconsistent Body Multiplier for Long Range - Slow STF - Bad Mobility.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D13",
+    "weaponName": "QXR",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "YKM Light Stock",
+      "Extended Mag A",
+      "Ranger Foregrip",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "Unconventional Build without Enhanced Bolt - No Negetive Attributes - Usally 4-5 STK - Has better TTK than QXR with Enhanced Bolt",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/903194293781561394/Screenshot_20211028-1251432.png"
+  },
+  {
+    "cwts": "D13",
+    "weaponName": "QXR",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "Monolithic Suppressor",
+      "Granulated Grip Tape",
+      "Enhanced Bolt",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 08; Easy to use - Easily achievable fast TTK - Need to stack BSA for Mid range - Huge Damage Fall off",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D14",
+    "weaponName": "PP19 Bizon",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Monolitic Suppressor ",
+      "OWC Skeleton Stock",
+      "Granulated Grip Tape",
+      "Large Calibar Ammo A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/691133003866439701/861887619049717770/Screenshot_20210706-1351142.png"
+  },
+  {
+    "cwts": "D14",
+    "weaponName": "PP19 Bizon",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "Monolitic Suppressor ",
+      "No Stock",
+      "OWC Marksman",
+      "Large Calibar Ammo A",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 03; Beginner Friendly - Good Mobility - BSA - Consistent TTK & Huge Mag - Bad Range due to recent nerfs",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935021998441132062/Screenshot_20220124-0932512.png"
+  },
+  {
+    "cwts": "D15",
+    "weaponName": "MX9",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Agile Stock",
+      "Strike Foregrip",
+      "Large Caliber Ammo",
+      "5mW Combat Laser"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/893019114837262356/Screenshot_20210930-1147552.jpg"
+  },
+  {
+    "cwts": "D15",
+    "weaponName": "MX9",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "Build-In  Silence Barrel",
+      "Agile Stock",
+      "Infiltrator Foregrip",
+      "Large Caliber Ammo",
+      "Rustle Grip Tape"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Ranked 01; Best in class for everything (Mobility - Recoil - TTK - Body Multiplier) Unusual Iron sights.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935032749306302514/Screenshot_20220124-1015502.png"
+  },
+  {
+    "cwts": "D16",
+    "weaponName": "CBR4",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Muzzle Break",
+      "Extended Light Barrel",
+      "Light Stock",
+      "Rubber Foregrip",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/934334244426244146/unknown.png"
+  },
+  {
+    "cwts": "D16",
+    "weaponName": "CBR4",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "Marksman Barrel",
+      "YKM Light Stock",
+      "Stippled Griptape",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://cdn.discordapp.com/attachments/892540167783596092/934336188683284481/This_is_the_best_CBR4_Gunsmith_in_cod_mobile_ever_0-24_screenshot.png"
+  },
+  {
+    "cwts": "D17",
+    "weaponName": "PPSh-41",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "OWC Light Suppressor",
+      "35 Round Fast Reload",
+      "OWC Skeleton Stock",
+      "Banner Heavy",
+      "MIP Laser - 5MW"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "No stock was considered but the STF can be acquired via 5mW laser & 35-R mag, and the accuracy penalties of no stock are pretty bad.",
+    "imageUrl": "https://media.discordapp.net/attachments/785461568464748593/934198581697609758/IMG_2303.png?width=1135&height=647"
+  },
+  {
+    "cwts": "D17",
+    "weaponName": "PPSh-41",
+    "author": "Jokesta",
+    "lastUpdate": "2022-01-24T00:00:00Z",
+    "attachments": [
+      "OWC Light Suppressor",
+      "Guerrila Light Short Barrel",
+      "No Stock",
+      "OWC Laser - Tactical",
+      "35 Round Fast Reload"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "No stock was considered but the STF can be acquired via 5mW laser & 35-R mag - and the accuracy penalties of no stock are pretty bad.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/935032316571561984/unknown.png"
+  },
+  {
+    "cwts": "E01",
+    "weaponName": "HS2126",
+    "author": "dHitman",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Light Barrel (Short)",
+      "Monolithic Suppressor",
+      "Speed Up Kill",
+      "FF Birdshot",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "Silenced Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094549234286612/Screenshot_20210620-141857.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E01",
+    "weaponName": "HS2126",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Heavy Barrel",
+      "Choke",
+      "Stippled Grip Tape",
+      "28 Round Extended Reload Case",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "Build by Nir - An extreme CQC weapon with lesser punishment than the Echo - Use it like an Axe with more range - Best paired with Gung Ho.",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094548907786240/Screenshot_20210620-141958.png"
+  },
+  {
+    "cwts": "E02",
+    "weaponName": "BY15",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Extended Barrel(+2)",
+      "Marauder Suppressor",
+      "Sleight of Hand",
+      "No Stock",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "Hipfire Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094834216665088/Screenshot_20210620-141028.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E02",
+    "weaponName": "BY15",
+    "author": "dHitman",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Sawed-Off Barrel (-3 Ammo)",
+      "Marauder Suppressor",
+      "Granulated Grip Tape",
+      "No Stock",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "ADS Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856094549570355210/Screenshot_20210620-141638.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E03",
+    "weaponName": "HS0405",
+    "author": "dHitman",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Choke",
+      "RTC Extended Light Barrel",
+      "Granulated Grip Tape",
+      "No Stock",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "ADS Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856103459812278272/Screenshot_20210620-144457.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E04",
+    "weaponName": "Striker",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Light Barrel (Short)",
+      "Monolithic Suppressor",
+      "Sleight of Hand",
+      "Fast Reload Reload Case",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "Hipfire Build",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856103969302773760/Screenshot_20210620-145715.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E05",
+    "weaponName": "KRM 262",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Extended Barrel(+2)",
+      "Marauder Suppressor",
+      "Sleight of Hand",
+      "No Stock",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856106646798598154/Screenshot_20210620-150937.png"
+  },
+  {
+    "cwts": "E05",
+    "weaponName": "KRM 262",
+    "author": "dHitman",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Light Extended Barrel",
+      "Marauder Suppressor",
+      "Speed Up Kill",
+      "No Stock",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856103969696383006/Screenshot_20210620-145357.png"
+  },
+  {
+    "cwts": "E06",
+    "weaponName": "Echo",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Extended Mag C",
+      "Choke",
+      "Sleight of Hand",
+      "No Stock",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856103970774056980/Screenshot_20210620-145110.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E06",
+    "weaponName": "Echo",
+    "author": "dHitman",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "Monolithic Suppressor",
+      "Speed Up Kill",
+      "No Stock",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856103970324742154/Screenshot_20210620-145200.png?width=1320&height=609"
+  },
+  {
+    "cwts": "E07",
+    "weaponName": "R9-0",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Choke",
+      "MFT Ultra Light Smoothbore",
+      "Stippled Grip Tape",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Hipfire", "ADS"],
+    "notes": "Agility & Hipfire - user may get questioned on sexuality.",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "F01",
+    "weaponName": "Kilo Bolt-Action",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Combat Stock",
+      "Fast Reload",
+      "Stippled Grip Tape",
+      "Bullet Return",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive"],
+    "notes": "Build Courtesy of xPrince Ali - Standard Build for Kilo - bullet return is amazing to keep streaks going",
+    "imageUrl": "https://media.discordapp.net/attachments/883029281414983700/901135150849622046/Screenshot_20211019_015325_com.activision.callofduty.shooter.jpg?width=1347&height=622"
+  },
+  {
+    "cwts": "F01",
+    "weaponName": "Kilo Bolt-Action",
+    "author": "Little B",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Combat Stock",
+      "Fast Reload",
+      "Stippled Grip Tape",
+      "Disabled",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive"],
+    "notes": "Build picked from YT Livestream Series - Using every gun in CODM",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/893041092717588500/unknown.png"
+  },
+  {
+    "cwts": "F01",
+    "weaponName": "Kilo Bolt-Action",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Combat Stock",
+      "Fast Reload",
+      "Stippled Grip Tape",
+      "OWC Light Suppressor",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Passive", "Search & Destroy"],
+    "notes": "Build Courtesy of xPrince Ali - Standard Build for Kilo - the suppressor so that you stay off the minimap.",
+    "imageUrl": "https://media.discordapp.net/attachments/883029281414983700/901134735101816862/Screenshot_20211019_015252_com.activision.callofduty.shooter.jpg?width=1347&height=622"
+  },
+  {
+    "cwts": "F02",
+    "weaponName": "SKS",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Stalker Stock",
+      "MIP Light",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "Extended Mag A"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "It can compete with T0 guns given its fast TTK but it's hard to use in CQB. Having your shots actually hit where you're aiming at feels incredible, - as it doesn't have BSA.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/892540167783596092/934337671030009896/Screenshot_20220122-1213452.png"
+  },
+  {
+    "cwts": "F02",
+    "weaponName": "SKS",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Steady Stock",
+      "Tactical Scope",
+      "Granulated Grip Tape",
+      "Tactical Foregrip A",
+      "Extended Mag A"
+    ],
+    "tags": ["Battle Royale"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/785461568464748593/929561010686292028/IMG_1111.png?width=1150&height=647"
+  },
+  {
+    "cwts": "F03",
+    "weaponName": "SP-R 208",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "YKM Combat Stock",
+      "[.300] 5 Round Reload",
+      "Tactical Foregrip A",
+      "OWC Tactical - Laser",
+      "MIP Light"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "F04",
+    "weaponName": "MK2",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Sport Stock",
+      ".30 - 30 Ammo",
+      "Stippled Grip Tape",
+      "OWC Tactical - Laser",
+      "18.0 Sport Barrel"
+    ],
+    "tags": ["Aggressive"],
+    "notes": "Much Harder to use - High Risk - High Reward.",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856114523165163520/Screenshot_20210620-153254.png?width=1320&height=609"
+  },
+  {
+    "cwts": "F04",
+    "weaponName": "MK2",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "MIP Sport Stock",
+      "Slight Of Hanf ",
+      "Stippled Grip Tape",
+      "OWC Tactical - Laser",
+      "18.0 Sport Barrel"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Passive"],
+    "notes": "Basic Build - Easier to Use",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "G01",
+    "weaponName": "J358",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Light Muzzle Brake",
+      "Slight Of Hand",
+      "Lightweight Trigger",
+      "J358 Short",
+      "8 Round Reload"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856114944269484032/Screenshot_20210620-153740.png?width=1320&height=609"
+  },
+  {
+    "cwts": "G02",
+    "weaponName": "MW11",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Light Muzzle Brake",
+      ".45 Compact Barrel",
+      "Lightweight Trigger",
+      "OWC Laser - Tactical",
+      "20 Round Reload"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "G03",
+    "weaponName": ".50 GS",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Monolithic Suppressor",
+      "Extended Light Barrel",
+      "10 Round Mag",
+      "Lightweight Trigger",
+      "OWC Laser-Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": "https://media.discordapp.net/attachments/540218400413188116/856114943824494612/Screenshot_20210620-153624.png?width=1320&height=609"
+  },
+  {
+    "cwts": "G04",
+    "weaponName": "Renetti",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "RTC Compensator",
+      "Rubberized Grip Tape",
+      "Light Trigger",
+      "OWC Laser - Tactical",
+      "21 Round Mag"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "G05",
+    "weaponName": "Shorty",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "Marauder Suppressor",
+      "RTC Steady Stock",
+      "Tactical Foregrip",
+      "OWC Laser - Tactical",
+      "OWC Stable"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive", "Search And Destroy"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "G06",
+    "weaponName": "Crossbow",
+    "author": "Path.exe",
+    "lastUpdate": "2022-01-22T00:00:00Z",
+    "attachments": [
+      "28 Bowstring",
+      "Heavy Limb",
+      "OWC Laser - Tactical",
+      "Ranger Stock",
+      "Gas Grenade Bolt"
+    ],
+    "tags": ["Respawn", "Aggressive", "Passive"],
+    "notes": "NO Description",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A14",
+    "weaponName": "DR-H",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "25 Round OTM Mag",
+      "No Stock",
+      "Disable Perk",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Marksman Barrel for BSA and Range, OTM Mag helps in improving multipliers, Disable Perk to decrease movement speed of smg/strafe users",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A15",
+    "weaponName": "DR-H",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Ranger Barrel",
+      "25 Round OTM Mag",
+      "Tactical Suppressor",
+      "Disable Perk",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destory", "Aggressive"],
+    "notes": "Ranger Barrel for BSA and Range, OTM Mag helps in improving multipliers, Disable Perk to decrease movement speed of smg/strafe users",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A19",
+    "weaponName": "M13",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "RTC Mini Barrel",
+      ".300 Double Stack 40 Round",
+      "No Stock",
+      "Granulated Grip Tape",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Aggressive", "Search And Destroy"],
+    "notes": "40 Round Double Stack Mag for the increased reload speed, range, ammo size and sound suppression which the downsides get cancelled by No Stock and Short Barrel",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A20",
+    "weaponName": "M13",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "RTC Heavy Long Barrel",
+      "Large Extended Mag B",
+      "No Stock",
+      "Disable Perk",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Passive", "Respawn"],
+    "notes": "Heavy Long Barrel for passive plays which helps in range and the vertical recoil control, 60 Round Reload  for continous fights and Disable perk to slow down strafe/smg during a gunfight",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A21",
+    "weaponName": "Kilo 141",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "No Stock",
+      "Disable Perk",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn"],
+    "notes": "Marksman Barrel for passive plays which helps in range and the vertical recoil control, 60 Round Reload for continous fights and Disable perk to slow down strafe/smg during a gunfight",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "A22",
+    "weaponName": "Kilo 141",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "YKM Integral Suppressor Light ",
+      "Disable Perk",
+      "Rubberized Grip Tape",
+      "Large Extended Mag B",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy"],
+    "notes": "Integral Suppressor Barrel to stay off the radar on map, 50 Round Reload  for continous fights and Disable perk to slow down strafe/smg during a gunfight, Rubberized Grip Tape to reduce vertical recoil ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D04",
+    "weaponName": "Razorback",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Rapid Fire",
+      "YKM Light Stock ",
+      "Extended Mag A",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destory", "Aggressive "],
+    "notes": "Rapid FIre Perk to increase the ROF which makes the TTK faster, Light Stock for strafe as an aggressive build",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D05",
+    "weaponName": "Razorback",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Rapid Fire",
+      "Extended Mag A",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Extended Barrel alone with Mono for Range and Passive plays, Rapid Fire to increase the ROF which makes the TTK faster",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D13",
+    "weaponName": "QXR",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "No Stock",
+      "Extended Mag A",
+      "Granulated Grip Tape",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Marksman Barrel which helps in range and BSA and recoil control, Extended Mag since the ROF is high, Granulated Grip Tape for BSA and No Stock for the Movement speed and ADS Speed ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D13",
+    "weaponName": "QXR",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "MIP Light Barrel (Short)",
+      "YKM Light Stock ",
+      "Extended Mag A",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destory", "Aggressive "],
+    "notes": "As an aggressive class, this build focuses on Movement and ADS Speeds. Short Barrel for Mobility and ADS speed, Light Stock for ADS Movement Speed and Extended Mag since ROF is high",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D14",
+    "weaponName": "PP19 Bizon",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Marksman",
+      "Granulated Grip Tape",
+      "No Stock",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Mono + Marksman for range and passive plays ",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D14",
+    "weaponName": "PP19 Bizon",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Granulated Grip Tape",
+      "OWC Skeleton Stock",
+      "Monolithic Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Aggressive", "Search And Destroy"],
+    "notes": "Mono + Extended barrel for range - Skeleton Stock for the ADS Movement speed",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D15",
+    "weaponName": "MX9",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Large Caliber Ammo",
+      "MIP Extended Light Barrel",
+      "Agile Stock",
+      "Firm Grip Tape",
+      "Foregrip"
+    ],
+    "tags": ["Search And Destroy"],
+    "notes": "Extended Barrel to increase range, Agile Stock to increase strafe speed, Large Caliber Ammo to improve body multipliers, Foregrip to help in reduce horizontal recoil",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D15",
+    "weaponName": "MX9",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Large Caliber Ammo",
+      "Built-In Silence Barrel",
+      "Agile Stock",
+      "Firm Grip Tape",
+      "Foregrip"
+    ],
+    "tags": ["Respawn"],
+    "notes": "Silence Barrel to to stay off the radar on map, Agile Stock to increase strafe speed, Large Caliber Ammo to improve body multipliers, Foregrip to help in reduce horizontal recoil",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D17",
+    "weaponName": "PPSh-41",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Light Suppressor",
+      "35 Round Fast Reload",
+      "No Stock",
+      "\"Guerrilla\" Light Short",
+      "MIP Laser 5mW"
+    ],
+    "tags": ["Search And Destroy"],
+    "notes": "35 Round Mag to incrase reload speed and movement speed, Short Barrel to increase movement speed and hipfire accuracy, No Stock to increase movement speed and improve STF speed, 5mW Laser to improve STF speed and hipfire accuracy",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "D17",
+    "weaponName": "PPSh-41",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "OWC Light Suppressor",
+      "\"Banner\" Heavy",
+      "No Stock",
+      "Operator Foregrip",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn"],
+    "notes": "NO Description Provided",
+    "imageUrl": ""
+  },
+  {
+    "cwts": "F01",
+    "weaponName": "Kilo Bolt-Action",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Stippled Grip Tape",
+      "YKM Combat Stock ",
+      "Fast Reload",
+      "Sleight Of Hand Perk",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Passive"],
+    "notes": "Max ADS Speed Build with Fast Reload and Sleight Of Hand Perk as Stopping Power Rounds are not worth it",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549956443242502/Screenshot_20220203-0308302.png"
+  },
+  {
+    "cwts": "F01",
+    "weaponName": "Kilo Bolt-Action",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Stippled Grip Tape",
+      "YKM Combat Stock ",
+      "Fast Reload",
+      "Tactical Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Search And Destroy", "Aggressive"],
+    "notes": "Max ADS Speed Build with Tactical Suppressor to stay off radar on map",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549966878683136/Screenshot_20220203-0308522.png"
+  },
+  {
+    "cwts": "F02",
+    "weaponName": "SKS",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "Extended Mag A",
+      "Tactical Foregrip A",
+      "MIP Stalker Stock",
+      "Granulated Grip Tape",
+      "Tactical Suppressor"
+    ],
+    "tags": ["Search And Destroy", "Respawn", "Aggressive", "Passive"],
+    "notes": "Stalker Stock, Granulated Grip Tape and Tactical Foregrip A help in reducing the hit flinch, Extended Mag for Spray and engage in more fights.",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549948994187375/Screenshot_20220203-0307152.png"
+  },
+  {
+    "cwts": "F03",
+    "weaponName": "SP-R 208",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "MIP Extended Light Barrel",
+      "Tactical Foregrip A",
+      ".300 Round Reload",
+      "Light Bolt",
+      "YKM Combat Stock"
+    ],
+    "tags": ["Respawn", "Aggressive"],
+    "notes": ".300 Rounds to improve the one-shot hitbox, Light Bolt to reduce the fire interval between each shot",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549928060407888/Screenshot_20220203-0305362.png"
+  },
+  {
+    "cwts": "F03",
+    "weaponName": "SP-R 208",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "YKM Integral Suppressor Light ",
+      "Tactical Foregrip A",
+      ".300 Round Reload",
+      "Light Bolt",
+      "YKM Combat Stock"
+    ],
+    "tags": ["Search And Destroy", "Passive"],
+    "notes": "Integral Suppressor Barrel to stay off the radar on map, .300 to improve one-shot hitbox, Light Bolt to reduce the fire interval between each shot",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549938986578030/Screenshot_20220203-0305472.png"
+  },
+  {
+    "cwts": "F04",
+    "weaponName": "MK2",
+    "author": "Stats On Duty",
+    "lastUpdate": "2022-01-30T00:00:00Z",
+    "attachments": [
+      "18.0 Sport Barrel",
+      "Stippled Grip Tape",
+      "MIP Sport Stock",
+      "Tactical Suppressor",
+      "OWC Laser - Tactical"
+    ],
+    "tags": ["Respawn", "Search And Destroy", "Aggressive", "Passive"],
+    "notes": "Max ADS Build",
+    "imageUrl": "https://media.discordapp.net/attachments/892540167783596092/938549907944517642/Screenshot_20220203-0303522.png"
+  }
+]
